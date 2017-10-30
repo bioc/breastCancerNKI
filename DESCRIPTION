@@ -1,7 +1,7 @@
 Package: breastCancerNKI
 Type: Package
 Title: Genexpression dataset published by van't Veer et al. [2002] and van de Vijver et al. [2002] (NKI).
-Version: 1.15.0
+Version: 1.16.0
 Date: 2011-02-10
 Description: Genexpression data from a breast cancer study published by van't Veer et al. in 2002 and van de Vijver et al. in 2002, provided as an eSet.
 biocViews: ExperimentData, CancerData, BreastCancerData, CGHData, MicroarrayData, OneChannelData, ChipOnChipData
